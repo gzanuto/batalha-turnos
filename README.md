@@ -1,2 +1,2 @@
-# first-projects
-My first projects since I started studying to become a developer.
+# batalha-turnos
+Simulação de uma batalha em turnos utilizando um dado de 6 faces.
